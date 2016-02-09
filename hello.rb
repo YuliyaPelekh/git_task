@@ -1,1 +1,1 @@
-puts "Hello НННН";
+puts "Hello НННН ШШШШШ";
